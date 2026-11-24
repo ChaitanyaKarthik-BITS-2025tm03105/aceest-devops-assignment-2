@@ -185,3 +185,5 @@ Jenkins requires Python, Git, Docker, and permission to access the Docker daemon
 ## 11. Repository
 
 GitHub: https://github.com/ChaitanyaKarthik-BITS-2025tm03105/aceest-devops
+
+SCM Polling demonstration for Assignment 2.
